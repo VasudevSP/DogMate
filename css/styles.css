@@ -63,6 +63,9 @@ p{
 .fa-do{
     padding-right: 15%;
 }
+.fa-do:hover{
+    color: black ;
+}
 
   /* Feature */
 
