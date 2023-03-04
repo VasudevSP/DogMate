@@ -54,7 +54,7 @@ p{
     right: 25%;
   }
 #title{
-    background-color: #ff4c68;
+    background:linear-gradient(#d11c65,#f36434);
     color: #fff;
 }
 #title .container-fluid{
